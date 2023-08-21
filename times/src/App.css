@@ -1,0 +1,11 @@
+
+
+.App {
+  /* text-align: center; */
+}
+
+.content {
+  display: flex;
+  padding-inline: 10px;
+}
+
